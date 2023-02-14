@@ -1,0 +1,33 @@
+
+
+.formTitle{
+    margin-top: 0;
+    margin-bottom: 3.5rem;
+    font-size: 2rem;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.397);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    align-items: center;
+    justify-content:center;
+    margin: 200px ;
+    padding: 100px ;
+    font-size: 2rem;
+}
+.form input{
+    scale: 1.2;
+    margin: 25px;
+    padding-left: 20px;
+    align-items: center;
+    line-height: 30px;
+    border-radius: 25px;
+}
+.form button{
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+}
