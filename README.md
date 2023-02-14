@@ -25,6 +25,7 @@ MEJORAS
 1.Aún me cuesta la lógica de los componentes, y eso me dificulta cada paso que agrego. Es por eso que algunas mejoras quedan pendientes, en pro de que funciones.
 2. Me gustaría que quedara el resultado con 2 decimales. No logré implementarlo sin romper el codigo.
 3. En algún momento se comenzó a actualizar el valor sin necesidad del botón. Al ser funcional lo dejé, pero es una mejora a revisar.
+4.Subiendo el proyecto recordé que era con fake data. Eso me quedó pendiente, ya que partí con un algoritmo simple que entendíera, y pasé a saltar ese requerimiento. Disculpas del caso.
 
 Muchas gracias Miguel por el conocimiento, la paciencia y entrega en este Bootcamp, que ha estado intenso y seguimos dándole para sortear los sortilegios y desafíos que nos enfrentan.
 
